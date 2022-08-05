@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "1\r\n5",
+      "output": "9",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test2",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "2\r\n3",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test3",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "6\r\n8",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test4",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "7\r\n3",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test5",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "1\r\n7",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test6",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "1\r\n2",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test7",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "9\r\n1",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test8",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "7\r\n6",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test9",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "4\r\n9",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test10",
+      "setup": "",
+      "run": "python3 tictactoe.py",
+      "input": "9\r\n6",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
